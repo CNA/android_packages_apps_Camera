@@ -49,11 +49,29 @@
     <string name="pref_video_time_lapse_frame_interval_title" msgid="5262531404348504642">"시간 경과 간격"</string>
     <string name="pref_camera_settings_category" msgid="2576236450859613120">"카메라 설정"</string>
     <string name="pref_camcorder_settings_category" msgid="460313486231965141">"캠코더 설정"</string>
+    <string name="pref_camera_power_shutter_title">파워 셔터</string>
+    <string name="pref_camera_power_shutter_default">꺼짐</string>
     <string name="pref_camera_picturesize_title" msgid="4333724936665883006">"사진 크기"</string>
     <string name="pref_camera_focusmode_title" msgid="2877248921829329127">"초점 모드"</string>
     <string name="pref_camera_focusmode_entry_auto" msgid="7374820710300362457">"자동"</string>
     <string name="pref_camera_focusmode_entry_infinity" msgid="3413922419264967552">"무한"</string>
     <string name="pref_camera_focusmode_entry_macro" msgid="4424489110551866161">"매크로"</string>
+    <string name="pref_camera_focusmode_entry_facedetect">"얼굴 인식"</string>
+    <string name="pref_camera_focusmode_entry_continuouspicture">"연속 사진"</string>
+    <string name="pref_camera_timer_title">타이머 모드</string>
+    <string name="pref_camera_timer_entry_0">꺼짐</string>
+    <string name="pref_camera_timer_entry_10">10초</string>
+    <string name="pref_camera_timer_entry_20">20초</string>
+    <string name="pref_camera_timer_entry_30">30초</string>
+    <string name="pref_camera_timer_entry_40">40초</string>
+    <string name="pref_camera_timer_entry_50">50초</string>
+    <string name="pref_camera_timer_entry_60">60초</string>
+    <string name="pref_camera_burst_title">버스트 샷</string>
+    <string name="pref_camera_burst_entry_off">꺼짐</string>
+    <string name="pref_camera_burst_entry_5">5 장</string>
+    <string name="pref_camera_burst_entry_10">10 장</string>
+    <string name="pref_camera_burst_entry_15">15 장</string>
+    <string name="pref_camera_burst_entry_20">20 장</string>
     <string name="pref_camera_flashmode_title" msgid="2287362477238791017">"플래시 모드"</string>
     <string name="pref_camera_flashmode_entry_auto" msgid="7288383434237457709">"자동"</string>
     <string name="pref_camera_flashmode_entry_on" msgid="5330043918845197616">"사용"</string>
@@ -121,4 +139,35 @@
     <string name="accessibility_switch_to_camera" msgid="5951340774212969461">"사진으로 전환"</string>
     <string name="accessibility_switch_to_video" msgid="4991396355234561505">"동영상으로 전환"</string>
     <string name="accessibility_switch_to_panorama" msgid="604756878371875836">"파노라마로 전환"</string>
+    <string name="pref_camera_antibanding_title">안티-밴딩</string>
+    <string name="pref_camera_antibanding_default">자동</string>
+    <string name="pref_camera_antibanding_entry_0">꺼짐</string>
+    <string name="pref_camera_antibanding_entry_1">50 Hz</string>
+    <string name="pref_camera_antibanding_entry_2">60 Hz</string>
+    <string name="pref_camera_antibanding_entry_3">자동</string>
+    <string name="pref_camera_coloreffect_title">색감 효과</string>
+    <string name="pref_camera_coloreffect_default" translatable="false">없음</string>
+    <string name="pref_camera_coloreffect_entry_none">없음</string>
+    <string name="pref_camera_coloreffect_entry_mono">모노</string>
+    <string name="pref_camera_coloreffect_entry_sepia">세피아</string>
+    <string name="pref_camera_coloreffect_entry_negative">네거티브</string>
+    <string name="pref_camera_coloreffect_entry_solarize">솔러라이즈</string>
+    <string name="pref_camera_coloreffect_entry_posterize">포스터라이즈</string>
+    <string name="pref_camera_coloreffect_entry_aqua">아쿠아</string>
+    <string name="pref_camera_coloreffect_entry_emboss">엠보스</string>
+    <string name="pref_camera_coloreffect_entry_sketch">스케치</string>
+    <string name="pref_camera_coloreffect_entry_neon">네온</string>
+    <string name="pref_camera_coloreffect_entry_pastel">파스텔</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">모자이크</string>
+    <string name="pref_camera_coloreffect_entry_redtint">빨강 색조</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">파랑 색조</string>
+    <string name="pref_camera_coloreffect_entry_greentint">초록 색조</string>
+    <string name="pref_camera_focus_title">초점 소요 시간</string>
+    <string name="pref_camera_focus_summary">초점의 소요 시간을 선택 하세요</string>
+    <string name="pref_camera_focus_entry_10">10초</string>
+    <string name="pref_camera_focus_entry_15">15초</string>
+    <string name="pref_camera_focus_entry_20">20초</string>
+    <string name="pref_camera_focus_entry_30">30초</string>
+    <string name="pref_camera_focus_entry_40">40초</string>
+    <string name="pref_camera_focus_entry_infinit">무한</string>
 </resources>
